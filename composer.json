@@ -1,0 +1,16 @@
+{
+  "name": "fnrxstd/laravel-variables",
+  "description": "A small service that allows a user to create custom variables for your Laravel 5 project.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Burak",
+      "email": "burak@myself.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": { "IKidnapMyself\\LaravelVariables\\": "src/" }
+  }
+}
